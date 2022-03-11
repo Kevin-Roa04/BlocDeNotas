@@ -1,0 +1,13 @@
+C:\Users\Kevin Roa\Desktop\Programacion\TareaBlocNotas\InfraestructureTareaBlocNotas\bin\Debug\netstandard2.0\InfraestructureTareaBlocNotas.deps.json
+C:\Users\Kevin Roa\Desktop\Programacion\TareaBlocNotas\InfraestructureTareaBlocNotas\bin\Debug\netstandard2.0\InfraestructureTareaBlocNotas.dll
+C:\Users\Kevin Roa\Desktop\Programacion\TareaBlocNotas\InfraestructureTareaBlocNotas\bin\Debug\netstandard2.0\InfraestructureTareaBlocNotas.pdb
+C:\Users\Kevin Roa\Desktop\Programacion\TareaBlocNotas\InfraestructureTareaBlocNotas\bin\Debug\netstandard2.0\DomainTareaBlocNotas.dll
+C:\Users\Kevin Roa\Desktop\Programacion\TareaBlocNotas\InfraestructureTareaBlocNotas\bin\Debug\netstandard2.0\DomainTareaBlocNotas.pdb
+C:\Users\Kevin Roa\Desktop\Programacion\TareaBlocNotas\InfraestructureTareaBlocNotas\obj\Debug\netstandard2.0\InfraestructureTareaBlocNotas.csproj.AssemblyReference.cache
+C:\Users\Kevin Roa\Desktop\Programacion\TareaBlocNotas\InfraestructureTareaBlocNotas\obj\Debug\netstandard2.0\InfraestructureTareaBlocNotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin Roa\Desktop\Programacion\TareaBlocNotas\InfraestructureTareaBlocNotas\obj\Debug\netstandard2.0\InfraestructureTareaBlocNotas.AssemblyInfoInputs.cache
+C:\Users\Kevin Roa\Desktop\Programacion\TareaBlocNotas\InfraestructureTareaBlocNotas\obj\Debug\netstandard2.0\InfraestructureTareaBlocNotas.AssemblyInfo.cs
+C:\Users\Kevin Roa\Desktop\Programacion\TareaBlocNotas\InfraestructureTareaBlocNotas\obj\Debug\netstandard2.0\InfraestructureTareaBlocNotas.csproj.CoreCompileInputs.cache
+C:\Users\Kevin Roa\Desktop\Programacion\TareaBlocNotas\InfraestructureTareaBlocNotas\obj\Debug\netstandard2.0\InfraestructureTareaBlocNotas.csproj.CopyComplete
+C:\Users\Kevin Roa\Desktop\Programacion\TareaBlocNotas\InfraestructureTareaBlocNotas\obj\Debug\netstandard2.0\InfraestructureTareaBlocNotas.dll
+C:\Users\Kevin Roa\Desktop\Programacion\TareaBlocNotas\InfraestructureTareaBlocNotas\obj\Debug\netstandard2.0\InfraestructureTareaBlocNotas.pdb
