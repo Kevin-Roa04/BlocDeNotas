@@ -11,3 +11,16 @@ C:\Users\Kevin Roa\Desktop\Programacion\TareaBlocNotas\InfraestructureTareaBlocN
 C:\Users\Kevin Roa\Desktop\Programacion\TareaBlocNotas\InfraestructureTareaBlocNotas\obj\Debug\netstandard2.0\InfraestructureTareaBlocNotas.csproj.CopyComplete
 C:\Users\Kevin Roa\Desktop\Programacion\TareaBlocNotas\InfraestructureTareaBlocNotas\obj\Debug\netstandard2.0\InfraestructureTareaBlocNotas.dll
 C:\Users\Kevin Roa\Desktop\Programacion\TareaBlocNotas\InfraestructureTareaBlocNotas\obj\Debug\netstandard2.0\InfraestructureTareaBlocNotas.pdb
+C:\Users\User\Desktop\BlocDeNotas\InfraestructureTareaBlocNotas\bin\Debug\netstandard2.0\InfraestructureTareaBlocNotas.deps.json
+C:\Users\User\Desktop\BlocDeNotas\InfraestructureTareaBlocNotas\bin\Debug\netstandard2.0\InfraestructureTareaBlocNotas.dll
+C:\Users\User\Desktop\BlocDeNotas\InfraestructureTareaBlocNotas\bin\Debug\netstandard2.0\InfraestructureTareaBlocNotas.pdb
+C:\Users\User\Desktop\BlocDeNotas\InfraestructureTareaBlocNotas\bin\Debug\netstandard2.0\DomainTareaBlocNotas.dll
+C:\Users\User\Desktop\BlocDeNotas\InfraestructureTareaBlocNotas\bin\Debug\netstandard2.0\DomainTareaBlocNotas.pdb
+C:\Users\User\Desktop\BlocDeNotas\InfraestructureTareaBlocNotas\obj\Debug\netstandard2.0\InfraestructureTareaBlocNotas.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\BlocDeNotas\InfraestructureTareaBlocNotas\obj\Debug\netstandard2.0\InfraestructureTareaBlocNotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\BlocDeNotas\InfraestructureTareaBlocNotas\obj\Debug\netstandard2.0\InfraestructureTareaBlocNotas.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\BlocDeNotas\InfraestructureTareaBlocNotas\obj\Debug\netstandard2.0\InfraestructureTareaBlocNotas.AssemblyInfo.cs
+C:\Users\User\Desktop\BlocDeNotas\InfraestructureTareaBlocNotas\obj\Debug\netstandard2.0\InfraestructureTareaBlocNotas.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\BlocDeNotas\InfraestructureTareaBlocNotas\obj\Debug\netstandard2.0\InfraestructureTareaBlocNotas.csproj.CopyComplete
+C:\Users\User\Desktop\BlocDeNotas\InfraestructureTareaBlocNotas\obj\Debug\netstandard2.0\InfraestructureTareaBlocNotas.dll
+C:\Users\User\Desktop\BlocDeNotas\InfraestructureTareaBlocNotas\obj\Debug\netstandard2.0\InfraestructureTareaBlocNotas.pdb

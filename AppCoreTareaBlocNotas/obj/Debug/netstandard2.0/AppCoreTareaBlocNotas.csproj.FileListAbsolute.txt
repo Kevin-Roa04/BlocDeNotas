@@ -11,3 +11,16 @@ C:\Users\Kevin Roa\Desktop\Programacion\TareaBlocNotas\AppCoreTareaBlocNotas\obj
 C:\Users\Kevin Roa\Desktop\Programacion\TareaBlocNotas\AppCoreTareaBlocNotas\obj\Debug\netstandard2.0\AppCoreTareaBlocNotas.csproj.CopyComplete
 C:\Users\Kevin Roa\Desktop\Programacion\TareaBlocNotas\AppCoreTareaBlocNotas\obj\Debug\netstandard2.0\AppCoreTareaBlocNotas.dll
 C:\Users\Kevin Roa\Desktop\Programacion\TareaBlocNotas\AppCoreTareaBlocNotas\obj\Debug\netstandard2.0\AppCoreTareaBlocNotas.pdb
+C:\Users\User\Desktop\BlocDeNotas\AppCoreTareaBlocNotas\bin\Debug\netstandard2.0\AppCoreTareaBlocNotas.deps.json
+C:\Users\User\Desktop\BlocDeNotas\AppCoreTareaBlocNotas\bin\Debug\netstandard2.0\AppCoreTareaBlocNotas.dll
+C:\Users\User\Desktop\BlocDeNotas\AppCoreTareaBlocNotas\bin\Debug\netstandard2.0\AppCoreTareaBlocNotas.pdb
+C:\Users\User\Desktop\BlocDeNotas\AppCoreTareaBlocNotas\bin\Debug\netstandard2.0\DomainTareaBlocNotas.dll
+C:\Users\User\Desktop\BlocDeNotas\AppCoreTareaBlocNotas\bin\Debug\netstandard2.0\DomainTareaBlocNotas.pdb
+C:\Users\User\Desktop\BlocDeNotas\AppCoreTareaBlocNotas\obj\Debug\netstandard2.0\AppCoreTareaBlocNotas.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\BlocDeNotas\AppCoreTareaBlocNotas\obj\Debug\netstandard2.0\AppCoreTareaBlocNotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\BlocDeNotas\AppCoreTareaBlocNotas\obj\Debug\netstandard2.0\AppCoreTareaBlocNotas.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\BlocDeNotas\AppCoreTareaBlocNotas\obj\Debug\netstandard2.0\AppCoreTareaBlocNotas.AssemblyInfo.cs
+C:\Users\User\Desktop\BlocDeNotas\AppCoreTareaBlocNotas\obj\Debug\netstandard2.0\AppCoreTareaBlocNotas.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\BlocDeNotas\AppCoreTareaBlocNotas\obj\Debug\netstandard2.0\AppCoreTareaBlocNotas.csproj.CopyComplete
+C:\Users\User\Desktop\BlocDeNotas\AppCoreTareaBlocNotas\obj\Debug\netstandard2.0\AppCoreTareaBlocNotas.dll
+C:\Users\User\Desktop\BlocDeNotas\AppCoreTareaBlocNotas\obj\Debug\netstandard2.0\AppCoreTareaBlocNotas.pdb
