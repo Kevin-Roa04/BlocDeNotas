@@ -48,5 +48,10 @@ namespace FormularioTareaBlocNotas
             }
             return node;
         }
+
+        private void newToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.notepad.Visible = true;
+        }
     }
 }
