@@ -30,9 +30,11 @@ namespace FormularioTareaBlocNotas
         //Muestra la informacion del TreeView
         private void dataTV()
         {
+            treeView1.Nodes.Clear();
             string url = "./CreatedFiles";
             DirectoryInfo di = new DirectoryInfo(url);
             treeView1.Nodes.Add(showData(di));
+            treeView1.Nodes[0].Expand();
         }
 
         private TreeNode showData(DirectoryInfo di)
@@ -66,10 +68,17 @@ namespace FormularioTareaBlocNotas
         {
             //Revisar
             string carpeta = treeView1.SelectedNode.Tag.ToString();
-            Directory.CreateDirectory(carpeta);
-            treeView1.Nodes.Clear();
-
-            dataTV();
+            DirectoryInfo di = new DirectoryInfo(carpeta);
+            if (di.Attributes.HasFlag(FileAttributes.Directory))
+            {
+                Directory.CreateDirectory(carpeta + "/pepe");
+                dataTV();
+            }
+            else
+            {
+                Console.WriteLine("is a file");
+                return;
+            }
         }
 
         private void archivoToolStripMenuItem_Click(object sender, EventArgs e)
@@ -82,6 +91,10 @@ namespace FormularioTareaBlocNotas
             blocNotasService.Add(blocNotas);
 
             dataTV();
+        }
+
+        private void cmsOpciones_MouseClick(object sender, MouseEventArgs e)
+        {
         }
     }
 }

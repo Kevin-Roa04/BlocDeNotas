@@ -195,19 +195,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Kevin Roa\\.nuget\\packages\\": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kevin Roa\\Desktop\\Definitivo\\BlocDeNotas\\InfraestructureTareaBlocNotas\\InfraestructureTareaBlocNotas.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\BlocDeNotas\\InfraestructureTareaBlocNotas\\InfraestructureTareaBlocNotas.csproj",
       "projectName": "InfraestructureTareaBlocNotas",
-      "projectPath": "C:\\Users\\Kevin Roa\\Desktop\\Definitivo\\BlocDeNotas\\InfraestructureTareaBlocNotas\\InfraestructureTareaBlocNotas.csproj",
-      "packagesPath": "C:\\Users\\Kevin Roa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kevin Roa\\Desktop\\Definitivo\\BlocDeNotas\\InfraestructureTareaBlocNotas\\obj\\",
+      "projectPath": "C:\\Users\\User\\Desktop\\BlocDeNotas\\InfraestructureTareaBlocNotas\\InfraestructureTareaBlocNotas.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\BlocDeNotas\\InfraestructureTareaBlocNotas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Kevin Roa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -221,8 +221,8 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "projectReferences": {
-            "C:\\Users\\Kevin Roa\\Desktop\\Definitivo\\BlocDeNotas\\DomainTareaBlocNotas\\DomainTareaBlocNotas.csproj": {
-              "projectPath": "C:\\Users\\Kevin Roa\\Desktop\\Definitivo\\BlocDeNotas\\DomainTareaBlocNotas\\DomainTareaBlocNotas.csproj"
+            "C:\\Users\\User\\Desktop\\BlocDeNotas\\DomainTareaBlocNotas\\DomainTareaBlocNotas.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\BlocDeNotas\\DomainTareaBlocNotas\\DomainTareaBlocNotas.csproj"
             }
           }
         }
@@ -254,7 +254,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
