@@ -71,14 +71,16 @@ namespace FormularioTareaBlocNotas
             DirectoryInfo di = new DirectoryInfo(carpeta);
             if (di.Attributes.HasFlag(FileAttributes.Directory))
             {
-                Directory.CreateDirectory(carpeta + "/pepe");
+                //Si es una carpeta...
+                string dirName = Microsoft.VisualBasic.Interaction.InputBox("Ingrese Nombre ", "Registro de Datos Personales", "Nombre", 100, 0);
+
+                Directory.CreateDirectory(carpeta + "/" + dirName);
                 dataTV();
-            }
-            else
-            {
-                Console.WriteLine("is a file");
                 return;
             }
+            //si es un archivo se manda un mensaje de error
+            MessageBox.Show("El elemento seleccionado es un archivo, Intente nuevamente....",
+                "ERROR");
         }
 
         private void archivoToolStripMenuItem_Click(object sender, EventArgs e)
