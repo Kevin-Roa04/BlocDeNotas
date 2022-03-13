@@ -118,5 +118,20 @@ namespace FormularioTareaBlocNotas
         private void cmsOpciones_MouseClick(object sender, MouseEventArgs e)
         {
         }
+
+        private void eliminarToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            string dir = treeView1.SelectedNode.Tag.ToString();
+            DirectoryInfo dirInfo = new DirectoryInfo(dir);
+            if (dirInfo.Attributes.HasFlag(FileAttributes.Directory))
+            {
+                //si es un directorio
+                Directory.Delete(dir, true);
+                dataTV();
+                return;
+            }
+            //si es un archivo
+            File.Delete(dir);
+        }
     }
 }
