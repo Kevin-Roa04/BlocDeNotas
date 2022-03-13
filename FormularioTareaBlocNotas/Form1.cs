@@ -66,13 +66,16 @@ namespace FormularioTareaBlocNotas
 
         private void carpetaToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            //Revisar
             string carpeta = treeView1.SelectedNode.Tag.ToString();
             DirectoryInfo di = new DirectoryInfo(carpeta);
             if (di.Attributes.HasFlag(FileAttributes.Directory))
             {
                 //Si es una carpeta...
-                string dirName = Microsoft.VisualBasic.Interaction.InputBox("Ingrese Nombre ", "Registro de Datos Personales", "Nombre", 100, 0);
+                string dirName;
+                do
+                {
+                    dirName = Microsoft.VisualBasic.Interaction.InputBox("Ingrese Nombre de la Carpeta que Desea Crear", "Nombre del Directorio");
+                } while (dirName.Length == 0);
 
                 Directory.CreateDirectory(carpeta + "/" + dirName);
                 dataTV();
@@ -85,12 +88,29 @@ namespace FormularioTareaBlocNotas
 
         private void archivoToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            BlocNotas blocNotas = new BlocNotas()
+            string carpeta = treeView1.SelectedNode.Tag.ToString();
+            DirectoryInfo di = new DirectoryInfo(carpeta);
+
+            if (di.Attributes.HasFlag(FileAttributes.Directory))
+            {
+                //Si es una carpeta...
+                string dirName = Microsoft.VisualBasic.Interaction.InputBox("Ingrese Nombre ", "Registro de Datos Personales", "Nombre", 100, 0);
+
+                File.Create(carpeta + "/" + dirName + ".txt");
+                dataTV();
+                return;
+            }
+
+            //si es un archivo se manda un mensaje de error
+            MessageBox.Show("El elemento seleccionado es un archivo, Intente nuevamente....",
+                "ERROR");
+
+            /*BlocNotas blocNotas = new BlocNotas()
             {
                 Texto = "",
                 Titulo = "Adios.txt",
             };
-            blocNotasService.Add(blocNotas);
+            blocNotasService.Add(blocNotas);*/
 
             dataTV();
         }
