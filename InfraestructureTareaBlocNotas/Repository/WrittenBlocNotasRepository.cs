@@ -2,16 +2,30 @@
 using DomainTareaBlocNotas.Interfaces;
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Text;
 
 namespace InfraestructureTareaBlocNotas.Repository
 {
     public class WrittenBlocNotasRepository : IBlocNotasModel
     {
-        //Hay que realizar la logica
+        private BinaryWriter binaryWriter;
         public void Add(BlocNotas t)
         {
-            
+            try
+            {
+                using (FileStream fileStream = new FileStream(t.Path, FileMode.Append, FileAccess.Write))
+                {
+                    binaryWriter = new BinaryWriter(fileStream);
+                    binaryWriter.Write(t.Texto);
+                    binaryWriter.Close();
+                }
+
+            }
+            catch (IOException)
+            {
+                throw;
+            }
         }
 
         public void Delete(BlocNotas t)

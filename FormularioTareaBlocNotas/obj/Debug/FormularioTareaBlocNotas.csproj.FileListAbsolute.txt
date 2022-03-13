@@ -77,3 +77,37 @@ C:\Users\User\Desktop\BlocDeNotas\FormularioTareaBlocNotas\obj\Debug\FormularioT
 C:\Users\User\Desktop\BlocDeNotas\FormularioTareaBlocNotas\obj\Debug\FormularioTareaBlocNotas.csproj.CopyComplete
 C:\Users\User\Desktop\BlocDeNotas\FormularioTareaBlocNotas\obj\Debug\FormularioTareaBlocNotas.exe
 C:\Users\User\Desktop\BlocDeNotas\FormularioTareaBlocNotas\obj\Debug\FormularioTareaBlocNotas.pdb
+C:\Users\Kevin Roa\Desktop\Definitivo\BlocDeNotas\FormularioTareaBlocNotas\bin\Debug\FormularioTareaBlocNotas.exe.config
+C:\Users\Kevin Roa\Desktop\Definitivo\BlocDeNotas\FormularioTareaBlocNotas\bin\Debug\FormularioTareaBlocNotas.exe
+C:\Users\Kevin Roa\Desktop\Definitivo\BlocDeNotas\FormularioTareaBlocNotas\bin\Debug\FormularioTareaBlocNotas.pdb
+C:\Users\Kevin Roa\Desktop\Definitivo\BlocDeNotas\FormularioTareaBlocNotas\bin\Debug\AppCoreTareaBlocNotas.dll
+C:\Users\Kevin Roa\Desktop\Definitivo\BlocDeNotas\FormularioTareaBlocNotas\bin\Debug\Autofac.dll
+C:\Users\Kevin Roa\Desktop\Definitivo\BlocDeNotas\FormularioTareaBlocNotas\bin\Debug\DomainTareaBlocNotas.dll
+C:\Users\Kevin Roa\Desktop\Definitivo\BlocDeNotas\FormularioTareaBlocNotas\bin\Debug\InfraestructureTareaBlocNotas.dll
+C:\Users\Kevin Roa\Desktop\Definitivo\BlocDeNotas\FormularioTareaBlocNotas\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Kevin Roa\Desktop\Definitivo\BlocDeNotas\FormularioTareaBlocNotas\bin\Debug\System.Buffers.dll
+C:\Users\Kevin Roa\Desktop\Definitivo\BlocDeNotas\FormularioTareaBlocNotas\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Kevin Roa\Desktop\Definitivo\BlocDeNotas\FormularioTareaBlocNotas\bin\Debug\System.Memory.dll
+C:\Users\Kevin Roa\Desktop\Definitivo\BlocDeNotas\FormularioTareaBlocNotas\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Kevin Roa\Desktop\Definitivo\BlocDeNotas\FormularioTareaBlocNotas\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Kevin Roa\Desktop\Definitivo\BlocDeNotas\FormularioTareaBlocNotas\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Kevin Roa\Desktop\Definitivo\BlocDeNotas\FormularioTareaBlocNotas\bin\Debug\AppCoreTareaBlocNotas.pdb
+C:\Users\Kevin Roa\Desktop\Definitivo\BlocDeNotas\FormularioTareaBlocNotas\bin\Debug\DomainTareaBlocNotas.pdb
+C:\Users\Kevin Roa\Desktop\Definitivo\BlocDeNotas\FormularioTareaBlocNotas\bin\Debug\InfraestructureTareaBlocNotas.pdb
+C:\Users\Kevin Roa\Desktop\Definitivo\BlocDeNotas\FormularioTareaBlocNotas\bin\Debug\Autofac.pdb
+C:\Users\Kevin Roa\Desktop\Definitivo\BlocDeNotas\FormularioTareaBlocNotas\bin\Debug\Autofac.xml
+C:\Users\Kevin Roa\Desktop\Definitivo\BlocDeNotas\FormularioTareaBlocNotas\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Kevin Roa\Desktop\Definitivo\BlocDeNotas\FormularioTareaBlocNotas\bin\Debug\System.Buffers.xml
+C:\Users\Kevin Roa\Desktop\Definitivo\BlocDeNotas\FormularioTareaBlocNotas\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Kevin Roa\Desktop\Definitivo\BlocDeNotas\FormularioTareaBlocNotas\bin\Debug\System.Memory.xml
+C:\Users\Kevin Roa\Desktop\Definitivo\BlocDeNotas\FormularioTareaBlocNotas\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Kevin Roa\Desktop\Definitivo\BlocDeNotas\FormularioTareaBlocNotas\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Kevin Roa\Desktop\Definitivo\BlocDeNotas\FormularioTareaBlocNotas\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Kevin Roa\Desktop\Definitivo\BlocDeNotas\FormularioTareaBlocNotas\obj\Debug\FormularioTareaBlocNotas.csproj.AssemblyReference.cache
+C:\Users\Kevin Roa\Desktop\Definitivo\BlocDeNotas\FormularioTareaBlocNotas\obj\Debug\FormularioTareaBlocNotas.Form1.resources
+C:\Users\Kevin Roa\Desktop\Definitivo\BlocDeNotas\FormularioTareaBlocNotas\obj\Debug\FormularioTareaBlocNotas.Properties.Resources.resources
+C:\Users\Kevin Roa\Desktop\Definitivo\BlocDeNotas\FormularioTareaBlocNotas\obj\Debug\FormularioTareaBlocNotas.csproj.GenerateResource.cache
+C:\Users\Kevin Roa\Desktop\Definitivo\BlocDeNotas\FormularioTareaBlocNotas\obj\Debug\FormularioTareaBlocNotas.csproj.CoreCompileInputs.cache
+C:\Users\Kevin Roa\Desktop\Definitivo\BlocDeNotas\FormularioTareaBlocNotas\obj\Debug\FormularioTareaBlocNotas.csproj.CopyComplete
+C:\Users\Kevin Roa\Desktop\Definitivo\BlocDeNotas\FormularioTareaBlocNotas\obj\Debug\FormularioTareaBlocNotas.exe
+C:\Users\Kevin Roa\Desktop\Definitivo\BlocDeNotas\FormularioTareaBlocNotas\obj\Debug\FormularioTareaBlocNotas.pdb

@@ -37,21 +37,51 @@ namespace FormularioTareaBlocNotas
 
         private TreeNode showData(DirectoryInfo di)
         {
-            TreeNode node = new TreeNode(di.Name);
-            foreach(var item in di.GetDirectories())
+            TreeNode treeNode = new TreeNode(di.Name);
+            string path = di.FullName;
+            treeNode.Tag = path;
+
+            foreach(var items in di.GetFiles())
             {
-                node.Nodes.Add(showData(item));
+                if (items.Name.Contains(".txt"))
+                {
+                    TreeNode file = new TreeNode(items.Name);
+                    file.Tag = items.FullName;
+                    treeNode.Nodes.Add(file);
+                }
             }
-            foreach(var item in di.GetFiles())
+            foreach(var items in di.GetDirectories())
             {
-                node.Nodes.Add(item.Name);
+                treeNode.Nodes.Add(showData(items));
             }
-            return node;
+            return treeNode;
         }
 
         private void newToolStripMenuItem_Click(object sender, EventArgs e)
         {
             this.notepad.Visible = true;
+        }
+
+        private void carpetaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            //Revisar
+            string carpeta = treeView1.SelectedNode.Tag.ToString();
+            Directory.CreateDirectory(carpeta);
+            treeView1.Nodes.Clear();
+
+            dataTV();
+        }
+
+        private void archivoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            BlocNotas blocNotas = new BlocNotas()
+            {
+                Texto = "",
+                Titulo = "Adios.txt",
+            };
+            blocNotasService.Add(blocNotas);
+
+            dataTV();
         }
     }
 }
