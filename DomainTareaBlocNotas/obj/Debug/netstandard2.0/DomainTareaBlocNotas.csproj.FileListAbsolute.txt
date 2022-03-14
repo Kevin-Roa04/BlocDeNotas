@@ -28,3 +28,13 @@ C:\Users\Kevin Roa\Desktop\Definitivo\BlocDeNotas\DomainTareaBlocNotas\obj\Debug
 C:\Users\Kevin Roa\Desktop\Definitivo\BlocDeNotas\DomainTareaBlocNotas\obj\Debug\netstandard2.0\DomainTareaBlocNotas.csproj.CoreCompileInputs.cache
 C:\Users\Kevin Roa\Desktop\Definitivo\BlocDeNotas\DomainTareaBlocNotas\obj\Debug\netstandard2.0\DomainTareaBlocNotas.dll
 C:\Users\Kevin Roa\Desktop\Definitivo\BlocDeNotas\DomainTareaBlocNotas\obj\Debug\netstandard2.0\DomainTareaBlocNotas.pdb
+C:\Users\Kevin Roa\Desktop\Defi\BlocDeNotas\DomainTareaBlocNotas\bin\Debug\netstandard2.0\DomainTareaBlocNotas.deps.json
+C:\Users\Kevin Roa\Desktop\Defi\BlocDeNotas\DomainTareaBlocNotas\bin\Debug\netstandard2.0\DomainTareaBlocNotas.dll
+C:\Users\Kevin Roa\Desktop\Defi\BlocDeNotas\DomainTareaBlocNotas\bin\Debug\netstandard2.0\DomainTareaBlocNotas.pdb
+C:\Users\Kevin Roa\Desktop\Defi\BlocDeNotas\DomainTareaBlocNotas\obj\Debug\netstandard2.0\DomainTareaBlocNotas.csproj.AssemblyReference.cache
+C:\Users\Kevin Roa\Desktop\Defi\BlocDeNotas\DomainTareaBlocNotas\obj\Debug\netstandard2.0\DomainTareaBlocNotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin Roa\Desktop\Defi\BlocDeNotas\DomainTareaBlocNotas\obj\Debug\netstandard2.0\DomainTareaBlocNotas.AssemblyInfoInputs.cache
+C:\Users\Kevin Roa\Desktop\Defi\BlocDeNotas\DomainTareaBlocNotas\obj\Debug\netstandard2.0\DomainTareaBlocNotas.AssemblyInfo.cs
+C:\Users\Kevin Roa\Desktop\Defi\BlocDeNotas\DomainTareaBlocNotas\obj\Debug\netstandard2.0\DomainTareaBlocNotas.csproj.CoreCompileInputs.cache
+C:\Users\Kevin Roa\Desktop\Defi\BlocDeNotas\DomainTareaBlocNotas\obj\Debug\netstandard2.0\DomainTareaBlocNotas.dll
+C:\Users\Kevin Roa\Desktop\Defi\BlocDeNotas\DomainTareaBlocNotas\obj\Debug\netstandard2.0\DomainTareaBlocNotas.pdb

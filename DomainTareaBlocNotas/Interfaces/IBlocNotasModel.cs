@@ -1,12 +1,12 @@
-﻿using DomainTareaBlocNotas.Entities;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Text;
 
 namespace DomainTareaBlocNotas.Interfaces
 {
-    public interface IBlocNotasModel : IModel<BlocNotas>
+    public interface IBlocNotasModel : IModel
     {
-        int GetLastId();
+        string Read(String t);
+        void Sobreescribir(string t, string i);
     }
 }

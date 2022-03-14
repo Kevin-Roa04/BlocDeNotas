@@ -4,10 +4,9 @@ using System.Text;
 
 namespace DomainTareaBlocNotas.Interfaces
 {
-    public interface IModel<T>
+    public interface IModel
     {
-        void Add(T t);
-        void Delete(T t);
-        List<T> FindAll();  
+        void Add(string t, int i);
+        void Delete(string t, int i);
     }
 }

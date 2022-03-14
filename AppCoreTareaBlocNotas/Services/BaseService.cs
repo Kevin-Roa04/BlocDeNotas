@@ -6,27 +6,22 @@ using System.Text;
 
 namespace AppCoreTareaBlocNotas.Services
 {
-    public abstract class BaseService<T> : IService<T>
+    public abstract class BaseService : IService
     {
-        private IModel<T> model;
-        protected BaseService(IModel<T> model)
+        private IModel model;
+        protected BaseService(IModel model)
         {
             this.model = model;
         }
 
-        public void Add(T t)
+        public void Add(string t, int i)
         {
-            model.Add(t);
+            model.Add(t, i);
         }
 
-        public void Delete(T t)
+        public void Delete(string t, int i)
         {
-            model.Delete(t);
-        }
-
-        public List<T> FindAll()
-        {
-            return model.FindAll();
+            model.Delete(t, i);
         }
     }
 }

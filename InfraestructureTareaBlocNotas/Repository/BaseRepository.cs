@@ -5,26 +5,16 @@ using System.Text;
 
 namespace InfraestructureTareaBlocNotas.Repository
 {
-    public abstract class BaseRepository<T> : IModel<T>
+    public abstract class BaseRepository : IModel
     {
-        public List<T> data;
-        public BaseRepository()
+        public void Add(string t, int i)
         {
-            data = new List<T>();
-        }
-        public void Add(T t)
-        {
-            data.Add(t); 
+            throw new NotImplementedException();
         }
 
-        public void Delete(T t)
+        public void Delete(string t, int i)
         {
-            data.Remove(t);
-        }
-
-        public List<T> FindAll()
-        {
-            return data;
+            throw new NotImplementedException();
         }
     }
 }

@@ -4,10 +4,9 @@ using System.Text;
 
 namespace AppCoreTareaBlocNotas.IServices
 {
-    public interface IService<T>
+    public interface IService
     {
-        void Add(T t);
-        void Delete(T t);
-        List<T> FindAll();
+        void Add(string t, int i);
+        void Delete(string t, int i);
     }
 }

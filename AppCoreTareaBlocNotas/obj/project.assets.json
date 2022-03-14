@@ -195,19 +195,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {}
+    "C:\\Users\\Kevin Roa\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\BlocDeNotas\\AppCoreTareaBlocNotas\\AppCoreTareaBlocNotas.csproj",
+      "projectUniqueName": "C:\\Users\\Kevin Roa\\Desktop\\Defi\\BlocDeNotas\\AppCoreTareaBlocNotas\\AppCoreTareaBlocNotas.csproj",
       "projectName": "AppCoreTareaBlocNotas",
-      "projectPath": "C:\\Users\\User\\Desktop\\BlocDeNotas\\AppCoreTareaBlocNotas\\AppCoreTareaBlocNotas.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\BlocDeNotas\\AppCoreTareaBlocNotas\\obj\\",
+      "projectPath": "C:\\Users\\Kevin Roa\\Desktop\\Defi\\BlocDeNotas\\AppCoreTareaBlocNotas\\AppCoreTareaBlocNotas.csproj",
+      "packagesPath": "C:\\Users\\Kevin Roa\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Kevin Roa\\Desktop\\Defi\\BlocDeNotas\\AppCoreTareaBlocNotas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Kevin Roa\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -221,8 +221,8 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "projectReferences": {
-            "C:\\Users\\User\\Desktop\\BlocDeNotas\\DomainTareaBlocNotas\\DomainTareaBlocNotas.csproj": {
-              "projectPath": "C:\\Users\\User\\Desktop\\BlocDeNotas\\DomainTareaBlocNotas\\DomainTareaBlocNotas.csproj"
+            "C:\\Users\\Kevin Roa\\Desktop\\Defi\\BlocDeNotas\\DomainTareaBlocNotas\\DomainTareaBlocNotas.csproj": {
+              "projectPath": "C:\\Users\\Kevin Roa\\Desktop\\Defi\\BlocDeNotas\\DomainTareaBlocNotas\\DomainTareaBlocNotas.csproj"
             }
           }
         }
@@ -254,7 +254,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
       }
     }
   }

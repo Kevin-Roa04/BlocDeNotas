@@ -24,7 +24,7 @@ namespace FormularioTareaBlocNotas
 
             var builder = new ContainerBuilder();
 
-            builder.RegisterType<ListBlocNotasRepository>().As<IBlocNotasModel>();
+            builder.RegisterType<WrittenBlocNotasRepository>().As<IBlocNotasModel>();
             builder.RegisterType<BlocNotasService>().As<IBlocNotasService>();
 
             var container = builder.Build();
