@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kevin Roa\\Desktop\\Defi\\BlocDeNotas\\InfraestructureTareaBlocNotas\\InfraestructureTareaBlocNotas.csproj": {}
+    "C:\\Users\\Kevin Roa\\Desktop\\A\\Defi\\BlocDeNotas\\InfraestructureTareaBlocNotas\\InfraestructureTareaBlocNotas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kevin Roa\\Desktop\\Defi\\BlocDeNotas\\DomainTareaBlocNotas\\DomainTareaBlocNotas.csproj": {
+    "C:\\Users\\Kevin Roa\\Desktop\\A\\Defi\\BlocDeNotas\\DomainTareaBlocNotas\\DomainTareaBlocNotas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kevin Roa\\Desktop\\Defi\\BlocDeNotas\\DomainTareaBlocNotas\\DomainTareaBlocNotas.csproj",
+        "projectUniqueName": "C:\\Users\\Kevin Roa\\Desktop\\A\\Defi\\BlocDeNotas\\DomainTareaBlocNotas\\DomainTareaBlocNotas.csproj",
         "projectName": "DomainTareaBlocNotas",
-        "projectPath": "C:\\Users\\Kevin Roa\\Desktop\\Defi\\BlocDeNotas\\DomainTareaBlocNotas\\DomainTareaBlocNotas.csproj",
+        "projectPath": "C:\\Users\\Kevin Roa\\Desktop\\A\\Defi\\BlocDeNotas\\DomainTareaBlocNotas\\DomainTareaBlocNotas.csproj",
         "packagesPath": "C:\\Users\\Kevin Roa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kevin Roa\\Desktop\\Defi\\BlocDeNotas\\DomainTareaBlocNotas\\obj\\",
+        "outputPath": "C:\\Users\\Kevin Roa\\Desktop\\A\\Defi\\BlocDeNotas\\DomainTareaBlocNotas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kevin Roa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,14 +61,14 @@
         }
       }
     },
-    "C:\\Users\\Kevin Roa\\Desktop\\Defi\\BlocDeNotas\\InfraestructureTareaBlocNotas\\InfraestructureTareaBlocNotas.csproj": {
+    "C:\\Users\\Kevin Roa\\Desktop\\A\\Defi\\BlocDeNotas\\InfraestructureTareaBlocNotas\\InfraestructureTareaBlocNotas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kevin Roa\\Desktop\\Defi\\BlocDeNotas\\InfraestructureTareaBlocNotas\\InfraestructureTareaBlocNotas.csproj",
+        "projectUniqueName": "C:\\Users\\Kevin Roa\\Desktop\\A\\Defi\\BlocDeNotas\\InfraestructureTareaBlocNotas\\InfraestructureTareaBlocNotas.csproj",
         "projectName": "InfraestructureTareaBlocNotas",
-        "projectPath": "C:\\Users\\Kevin Roa\\Desktop\\Defi\\BlocDeNotas\\InfraestructureTareaBlocNotas\\InfraestructureTareaBlocNotas.csproj",
+        "projectPath": "C:\\Users\\Kevin Roa\\Desktop\\A\\Defi\\BlocDeNotas\\InfraestructureTareaBlocNotas\\InfraestructureTareaBlocNotas.csproj",
         "packagesPath": "C:\\Users\\Kevin Roa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kevin Roa\\Desktop\\Defi\\BlocDeNotas\\InfraestructureTareaBlocNotas\\obj\\",
+        "outputPath": "C:\\Users\\Kevin Roa\\Desktop\\A\\Defi\\BlocDeNotas\\InfraestructureTareaBlocNotas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kevin Roa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -85,8 +85,8 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\Kevin Roa\\Desktop\\Defi\\BlocDeNotas\\DomainTareaBlocNotas\\DomainTareaBlocNotas.csproj": {
-                "projectPath": "C:\\Users\\Kevin Roa\\Desktop\\Defi\\BlocDeNotas\\DomainTareaBlocNotas\\DomainTareaBlocNotas.csproj"
+              "C:\\Users\\Kevin Roa\\Desktop\\A\\Defi\\BlocDeNotas\\DomainTareaBlocNotas\\DomainTareaBlocNotas.csproj": {
+                "projectPath": "C:\\Users\\Kevin Roa\\Desktop\\A\\Defi\\BlocDeNotas\\DomainTareaBlocNotas\\DomainTareaBlocNotas.csproj"
               }
             }
           }

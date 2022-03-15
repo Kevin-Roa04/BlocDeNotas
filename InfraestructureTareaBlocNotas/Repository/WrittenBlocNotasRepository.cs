@@ -14,7 +14,10 @@ namespace InfraestructureTareaBlocNotas.Repository
         {
             if (i == 1)
             {
-                File.Create(t);
+                using(FileStream file = File.Create(t))
+                {
+                    file.Close();
+                }
             }
             else if (i == 2)
             {
@@ -34,7 +37,7 @@ namespace InfraestructureTareaBlocNotas.Repository
         }
         public string Read(string t)
         {
-            string texto = "";
+            string texto = string.Empty;
             try
             {
                 using (FileStream fileStream = new FileStream(t, FileMode.Open, FileAccess.Read))
@@ -60,9 +63,7 @@ namespace InfraestructureTareaBlocNotas.Repository
 
         public void Sobreescribir(string t, string i)
         {
-            Delete(t, 1);
-            Add(t, 1);
-            using (FileStream file = new FileStream(t, FileMode.Append, FileAccess.Write))
+            using (FileStream file = new FileStream(t, FileMode.Truncate, FileAccess.Write))
             {
                 binaryWriter = new BinaryWriter(file);
                 binaryWriter.Write(i);

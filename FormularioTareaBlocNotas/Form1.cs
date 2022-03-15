@@ -23,7 +23,6 @@ namespace FormularioTareaBlocNotas
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            rtbNotas.Text = "Hola";
             dataTV();
         }
 
@@ -87,7 +86,11 @@ namespace FormularioTareaBlocNotas
             if (di.Attributes.HasFlag(FileAttributes.Directory))
             {
                 //Si es una carpeta...
-                string dirName = Microsoft.VisualBasic.Interaction.InputBox("Ingrese Nombre ", "Registro de Datos Personales", "Nombre", 100, 0);
+                string dirName;
+                do
+                {
+                    dirName = Microsoft.VisualBasic.Interaction.InputBox("Ingrese Nombre del Archivo que desea crear", "Nombre del Archivo");
+                } while (dirName.Length == 0);
 
                 blocNotasService.Add(carpeta + "/" + dirName + ".txt", 1);
                 dataTV();
@@ -123,7 +126,7 @@ namespace FormularioTareaBlocNotas
 
         private void treeView1_NodeMouseDoubleClick(object sender, TreeNodeMouseClickEventArgs e)
         {
-            System.Diagnostics.Process.Start(treeView1.SelectedNode.Tag.ToString());
+            var datos = System.Diagnostics.Process.Start(treeView1.SelectedNode.Tag.ToString());
         }
 
         private void treeView1_NodeMouseClick(object sender, TreeNodeMouseClickEventArgs e)
@@ -144,12 +147,22 @@ namespace FormularioTareaBlocNotas
                 rtbNotas.Text = String.Empty;
                 rtbNotas.Text = blocNotasService.Read(treeView1.SelectedNode.Tag.ToString());
             }
+            
         }
 
         private void saveToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            blocNotasService.Sobreescribir(treeView1.SelectedNode.Tag.ToString(), rtbNotas.Text);
-            rtbNotas.Text = "";
+            string dir = treeView1.SelectedNode.Tag.ToString();
+            DirectoryInfo dirInfo = new DirectoryInfo(dir);
+            if (dirInfo.Attributes.HasFlag(FileAttributes.Directory))
+            {
+                MessageBox.Show("Ha seleccionado una carpeta", "ERROR", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+            else
+            {
+                blocNotasService.Sobreescribir(treeView1.SelectedNode.Tag.ToString(), rtbNotas.Text);
+                rtbNotas.Text = "";
+            }
         }
 
         private void closeToolStripMenuItem_Click(object sender, EventArgs e)

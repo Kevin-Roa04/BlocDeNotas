@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pzGAQiUkoT736pRZr46ePQbBsPZbzjV2pz4nKKqUn8ikYLbMAYAeKAfab9RJtFPRkbJK/lqhN+HxGwQ+eFWv9A==",
+  "dgSpecHash": "qMGy1N3rx9rgNhpFjlbs6BEdfVEUgLIm0HrjwkwVbpG0nxN7GkGSDN9udc0sdP8ClSw4jlq9zJaoyoSYz8CYeg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kevin Roa\\Desktop\\Defi\\BlocDeNotas\\InfraestructureTareaBlocNotas\\InfraestructureTareaBlocNotas.csproj",
+  "projectFilePath": "C:\\Users\\Kevin Roa\\Desktop\\A\\Defi\\BlocDeNotas\\InfraestructureTareaBlocNotas\\InfraestructureTareaBlocNotas.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kevin Roa\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Kevin Roa\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

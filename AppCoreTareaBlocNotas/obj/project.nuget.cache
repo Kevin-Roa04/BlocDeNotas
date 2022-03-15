@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XMw6hMWCVVWXAuDMCtjbtRFTtYure4i5gKvuUlNPbSyUjm3OuZEf4j34qfrAJDR1ZIQWH0YMvyRDj7zU6ohxtA==",
+  "dgSpecHash": "S3kq6nNjQuBOkhUxc4/BZn2w0xXjzwuBmDoGKT8Ql4Eba2c/9+u8YmhMvTtztD8d+px/ry2mvya+iFV+ZGdtuA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kevin Roa\\Desktop\\Defi\\BlocDeNotas\\AppCoreTareaBlocNotas\\AppCoreTareaBlocNotas.csproj",
+  "projectFilePath": "C:\\Users\\Kevin Roa\\Desktop\\A\\Defi\\BlocDeNotas\\AppCoreTareaBlocNotas\\AppCoreTareaBlocNotas.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kevin Roa\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Kevin Roa\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
